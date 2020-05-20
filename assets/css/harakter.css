@@ -46,9 +46,3 @@
 .info__inner em {
 	color: #b93434;
 }
-
-.comments {
-	height: auto;
-	max-height: 4000px;
-	width: 100%;
-}
