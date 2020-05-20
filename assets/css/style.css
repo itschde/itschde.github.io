@@ -69,7 +69,6 @@ body {
 .header__logo a h1 {
 	font-family: 'Exo 2', sans-serif;
 	font-size: 30px;
-	margin-left: 10px;
 }
 
 /*Header Navigation*/
@@ -82,7 +81,7 @@ body {
 .header__nav a {
 	text-decoration: none;
 	color: #b7b7b7;
-	margin-left: 100px;
+	margin-left: 110px;
 }
 
 .header__nav a:first-child {
@@ -90,7 +89,6 @@ body {
 }
 
 .header__nav a:last-child {
-	margin-right: 10px;
 }
 
 .header__nav a:hover {
