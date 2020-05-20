@@ -42,3 +42,7 @@
 	font-size: 25px;
 	color: #e2e2e2;
 }
+
+.info__inner em {
+	color: #fff;
+}
