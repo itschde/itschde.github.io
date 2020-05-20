@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 body {
 	width: 100%;
-	max-width: 2048px;
+	max-width: 8192px;
 	margin: 0px;
 	font-family: 'Exo 2', sans-serif;
 }
