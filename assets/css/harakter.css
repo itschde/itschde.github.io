@@ -1,7 +1,8 @@
 .definition {
-	height: 955px;
+	height: 655px;
     padding-top: 180px;
     display: flex;
+    justify-content: center;
     background-color: burlywood;
 }
 
