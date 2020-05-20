@@ -1,4 +1,15 @@
-.intro__inner p {
+.definition {
+	height: 955px;
+    padding-top: 180px;
+    display: flex;
+    background-color: burlywood;
+}
+
+.definition__inner {
+	text-align: center;
+}
+
+.definition__inner p {
 	font-family: 'Exo 2', sans-serif;
 	font-size: 25px;
 	color: #fff;
