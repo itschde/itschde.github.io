@@ -17,5 +17,10 @@
 }
 
 .info {
+	height: 700px;
 	background-color: burlywood;
+}
+
+.info__inner h1 {
+
 }
