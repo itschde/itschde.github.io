@@ -104,8 +104,8 @@ body {
 
 .intro {
 	width: 100%;
-	height: 905px;
-    padding-top: 180px;
+	height: 955px;
+    padding-top: 120px;
     display: flex;
     background-color: burlywood;
 }
