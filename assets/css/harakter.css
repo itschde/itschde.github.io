@@ -37,6 +37,14 @@
 	color: #fff;
 }
 
+.info__inner li {
+	color: #b93434;
+}
+
+.info__inner li span {
+	color: #fff;
+}
+
 .info__inner p {
 	font-family: 'Exo 2', sans-serif;
 	font-size: 25px;
