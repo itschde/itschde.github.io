@@ -21,6 +21,10 @@
 	background-color: burlywood;
 }
 
+.info__inner img {
+	float: right;
+}
+
 .info__inner h1 {
 	font-family: 'Amatic SC', cursive;
 	font-size: 40px;
@@ -31,4 +35,10 @@
 	font-family: 'Exo 2', sans-serif;
 	font-size: 25px;
 	color: #e2e2e2;
+}
+
+.info__inner ul {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 25px;
+	color: #fff;
 }
