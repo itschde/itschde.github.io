@@ -19,8 +19,9 @@ body {
 }
 
 .container {
-	width: 100%;
+	width: auto;
 	max-width: 1360px;
+	min-width: 800px;
 	margin: 0px auto;
 }
 
